@@ -29,7 +29,7 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:5x5_prototype-cache
+LIBS:5x5_prototyping_board
 EELAYER 27 0
 EELAYER END
 $Descr A4 11693 8268
