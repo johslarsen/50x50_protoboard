@@ -29,7 +29,6 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:johs
 LIBS:5x5_prototype-cache
 EELAYER 27 0
 EELAYER END
