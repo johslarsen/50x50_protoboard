@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by PcbNew date = 2014-08-03T03:53:56 CEST
+Cmp-Mod V01 Created by CvPcb (2013-may-18)-stable date = 2014-08-03T06:07:41 CEST
 
 BeginCmp
 TimeStamp = /53DD4216;
@@ -19,6 +19,20 @@ TimeStamp = /53DD8824;
 Reference = CON3;
 ValeurCmp = USB-MICRO;
 IdModule  = dp_devices-CONN_USB_MICRO-B;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DDB6F8;
+Reference = F1;
+ValeurCmp = FUSE;
+IdModule  = SM1812L;
+EndCmp
+
+BeginCmp
+TimeStamp = /53DDB707;
+Reference = F2;
+ValeurCmp = FUSE;
+IdModule  = SM1812L;
 EndCmp
 
 BeginCmp
