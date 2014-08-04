@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-may-18)-stable date = 2014-08-03T06:07:41 CEST
+Cmp-Mod V01 Created by PcbNew date = 2014-08-04T03:27:33 CEST
 
 BeginCmp
 TimeStamp = /53DD4216;
@@ -543,7 +543,7 @@ BeginCmp
 TimeStamp = /53DD4187;
 Reference = U1;
 ValeurCmp = 7805;
-IdModule  = TO220_VERT;
+IdModule  = dp_devices-TO-220V;
 EndCmp
 
 BeginCmp
