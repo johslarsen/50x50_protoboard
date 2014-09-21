@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-may-18)-stable date = Thu 28 Aug 2014 20:17:46 CEST
+Cmp-Mod V01 Created by PcbNew date = Mon 22 Sep 2014 00:37:16 CEST
 
 BeginCmp
 TimeStamp = /53FF7346;
@@ -529,42 +529,42 @@ BeginCmp
 TimeStamp = /53DD424D;
 Reference = JP1;
 ValeurCmp = JUMPER;
-IdModule  = PINS_RECT_2X1_SOLDER_JUMPER;
+IdModule  = PINS_RECT_2X1_SOLDER_JUMPER_SHORTED_F;
 EndCmp
 
 BeginCmp
 TimeStamp = /53DD422F;
 Reference = JP2;
 ValeurCmp = JUMPER;
-IdModule  = PINS_RECT_2X1_SOLDER_JUMPER;
+IdModule  = PINS_RECT_2X1_SOLDER_JUMPER_SHORTED_F;
 EndCmp
 
 BeginCmp
 TimeStamp = /53DD423E;
 Reference = JP3;
 ValeurCmp = JUMPER;
-IdModule  = PINS_RECT_2X1_SOLDER_JUMPER;
+IdModule  = PINS_RECT_2X1_SOLDER_JUMPER_SHORTED_F;
 EndCmp
 
 BeginCmp
 TimeStamp = /53FB40CE;
 Reference = JP4;
 ValeurCmp = JUMPER;
-IdModule  = PINS_RECT_2X1_SOLDER_JUMPER;
+IdModule  = PINS_RECT_2X1_SOLDER_JUMPER_SHORTED_F;
 EndCmp
 
 BeginCmp
 TimeStamp = /53FB40DD;
 Reference = JP5;
 ValeurCmp = JUMPER;
-IdModule  = PINS_RECT_2X1_SOLDER_JUMPER;
+IdModule  = PINS_RECT_2X1_SOLDER_JUMPER_SHORTED_F;
 EndCmp
 
 BeginCmp
 TimeStamp = /53FE5756;
 Reference = JP6;
 ValeurCmp = JUMPER;
-IdModule  = PINS_RECT_2X1_SOLDER_JUMPER;
+IdModule  = PINS_RECT_2X1_SOLDER_JUMPER_SHORTED_F;
 EndCmp
 
 BeginCmp
