@@ -83,7 +83,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory gerbers/5x5_protoboard/))
+      (outputdirectory gerbers/50x50_protoboard/))
   )
 
   (net 0 "")

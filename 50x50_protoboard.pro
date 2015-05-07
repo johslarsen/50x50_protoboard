@@ -17,7 +17,7 @@ RptD_Y=100
 RptLab=1
 LabSize=60
 [eeschema/libraries]
-LibName1=/home/johs/work/electronics/5x5_protoboard/lib_kicad/johs/components
+LibName1=/home/johs/work/electronics/50x50_protoboard/lib_kicad/johs/components
 LibName2=power
 LibName3=device
 LibName4=transistors
@@ -48,8 +48,8 @@ LibName28=opto
 LibName29=atmel
 LibName30=contrib
 LibName31=valves
-LibName32=/home/johs/work/electronics/5x5_protoboard/5x5_protoboard-cache
-LibName33=/home/johs/work/electronics/5x5_protoboard/lib_kicad/dangerous_prototypes/dp_devices
+LibName32=/home/johs/work/electronics/50x50_protoboard/50x50_protoboard-cache
+LibName33=/home/johs/work/electronics/50x50_protoboard/lib_kicad/dangerous_prototypes/dp_devices
 [pcbnew]
 version=1
 LastNetListRead=
@@ -71,8 +71,8 @@ BoardOutlineThickness="    0,150000"
 ModuleOutlineThickness="    0,150000"
 [pcbnew/libraries]
 LibDir=
-LibName1=/home/johs/work/electronics/5x5_protoboard/lib_kicad/dangerous_prototypes/dp_devices
-LibName2=/home/johs/work/electronics/5x5_protoboard/lib_kicad/johs/components
+LibName1=/home/johs/work/electronics/50x50_protoboard/lib_kicad/dangerous_prototypes/dp_devices
+LibName2=/home/johs/work/electronics/50x50_protoboard/lib_kicad/johs/components
 LibName3=sockets
 LibName4=connect
 LibName5=discret

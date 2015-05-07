@@ -1,6 +1,6 @@
 (export (version D)
   (design
-    (source /home/johs/work/electronics/5x5_protoboard/5x5_protoboard.sch)
+    (source /home/johs/work/electronics/50x50_protoboard/50x50_protoboard.sch)
     (date "Sun 21 Sep 2014 23:11:18 CEST")
     (tool "eeschema (2013-may-18)-stable"))
   (components
@@ -579,7 +579,7 @@
         (pin (num VO) (name VO) (type power_out)))))
   (libraries
     (library (logical components)
-      (uri /home/johs/work/electronics/5x5_protoboard/lib_kicad/johs/components.lib))
+      (uri /home/johs/work/electronics/50x50_protoboard/lib_kicad/johs/components.lib))
     (library (logical device)
       (uri /usr/share/kicad/library/device.lib))
     (library (logical conn)
