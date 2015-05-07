@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-01-08 BZR 5360)-product   date = 2015-05-07T20:26:48 CEST
+Cmp-Mod V01 Created by Cvpcb (2015-01-08 BZR 5360)-product   date = 2015-05-07T21:24:21 CEST
 
 BeginCmp
 TimeStamp = /53FF7346;
@@ -22,16 +22,16 @@ IdModule  = Connect:BARREL_JACK;
 EndCmp
 
 BeginCmp
-TimeStamp = /53DD8801;
+TimeStamp = /554C4729;
 Reference = CON2;
-ValeurCmp = USB-MINI-B;
+ValeurCmp = USB_FEMALE_WITH_ID;
 IdModule  = Connectors:USB_Mini-B_Female;
 EndCmp
 
 BeginCmp
-TimeStamp = /53DD8824;
+TimeStamp = /554C498A;
 Reference = CON3;
-ValeurCmp = USB-MICRO;
+ValeurCmp = USB_FEMALE_WITH_ID;
 IdModule  = Connectors:USB_Micro-B_Female_Wellco_AUSB_1011_05S2;
 EndCmp
 
@@ -568,6 +568,13 @@ IdModule  = 2.54mm_Pin_Headers:Solder_Jumper_1x2_Shorted_T;
 EndCmp
 
 BeginCmp
+TimeStamp = /554BE7A5;
+Reference = JP7;
+ValeurCmp = JUMPER;
+IdModule  = 2.54mm_Pin_Headers:Solder_Jumper_1x2_Shorted_T;
+EndCmp
+
+BeginCmp
 TimeStamp = /53DD87F2;
 Reference = P1;
 ValeurCmp = CONN_5;
@@ -598,8 +605,8 @@ EndCmp
 BeginCmp
 TimeStamp = /554BCE60;
 Reference = VIN1;
-ValeurCmp = CONN_4;
-IdModule  = Socket_Strips:Socket_Strip_Straight_1x04;
+ValeurCmp = CONN_2;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x02;
 EndCmp
 
 BeginCmp
@@ -612,8 +619,8 @@ EndCmp
 BeginCmp
 TimeStamp = /554BC195;
 Reference = VIN_78XX1;
-ValeurCmp = CONN_4;
-IdModule  = Socket_Strips:Socket_Strip_Straight_1x04;
+ValeurCmp = CONN_2;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x02;
 EndCmp
 
 BeginCmp

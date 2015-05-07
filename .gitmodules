@@ -4,3 +4,6 @@
 [submodule "lib/Connectors.pretty"]
 	path = lib/Connectors.pretty
 	url = ../Connectors.pretty
+[submodule "lib/SMD.pretty"]
+	path = lib/SMD.pretty
+	url = ../SMD.pretty
