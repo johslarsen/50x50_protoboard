@@ -1,3 +1,6 @@
-[submodule "lib_kicad"]
-	path = lib_kicad
-	url = https://github.com/johslarsen/lib_kicad.git
+[submodule "lib/2.54mm_Pin_Headers.pretty"]
+	path = lib/2.54mm_Pin_Headers.pretty
+	url = ../2.54mm_Pin_Headers.pretty
+[submodule "lib/Connectors.pretty"]
+	path = lib/Connectors.pretty
+	url = ../Connectors.pretty
