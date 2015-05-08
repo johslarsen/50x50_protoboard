@@ -1,4 +1,4 @@
-update=2015-05-07T21:11:30 CEST
+update=2015-05-08T03:08:10 CEST
 version=1
 last_client=kicad
 [cvpcb]
@@ -27,26 +27,6 @@ SolderMaskMinWidth="    0,000000"
 DrawSegmentWidth="    0,200000"
 BoardOutlineThickness="    0,150000"
 ModuleOutlineThickness="    0,150000"
-[pcbnew/libraries]
-LibDir=
-LibName1=/home/johs/work/electronics/50x50_protoboard/lib_kicad/dangerous_prototypes/dp_devices
-LibName2=/home/johs/work/electronics/50x50_protoboard/lib_kicad/johs/components
-LibName3=sockets
-LibName4=connect
-LibName5=discret
-LibName6=pin_array
-LibName7=divers
-LibName8=smd_capacitors
-LibName9=smd_resistors
-LibName10=smd_crystal&oscillator
-LibName11=smd_dil
-LibName12=smd_transistors
-LibName13=libcms
-LibName14=display
-LibName15=led
-LibName16=dip_sockets
-LibName17=pga_sockets
-LibName18=valves
 [eeschema]
 version=1
 LibDir=
@@ -82,3 +62,4 @@ LibName28=atmel
 LibName29=contrib
 LibName30=valves
 LibName31=lib/Connectors.pretty/connectors
+LibName32=lib/2.54mm_Pin_Headers.pretty/2.54mm_pin_headers
